@@ -1,0 +1,23 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "i am learning npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unknownxx69/Web-Development-by-ANGELA-YU-Udemy-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unknownxx69/Web-Development-by-ANGELA-YU-Udemy-/issues"
+  },
+  "homepage": "https://github.com/unknownxx69/Web-Development-by-ANGELA-YU-Udemy-#readme",
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  }
+}
